@@ -1,17 +1,18 @@
 #title in header
-title: "Hi Folks."
+title: "RohsLogs"
 
 #main info
 #owner
-owner: "I am Adi Sakti Jrs"
-email: test@test.test
-info: "A student and web developer from Indonesia 🇮🇩"
+owner: "I'm Ji Hyun Roh"
+email: rohjihyun95@gmail.com
+info: ""
 #description
-desc: "This is Minima, an undoubtedly simple and lightweight dark/light mode theme for Hexo. I created this from scratch using Skeleton CSS boilerplate. It only uses CSS and Vanilla JS, without using unnecessary third-party 'render-blocking' libraries! 😁"
+desc: ""
 
 #menu
 menu:
   Works: /Works
+  Hobby: /Hobby
   About: /About
 
 #index/main page max show posts (in number)
@@ -28,13 +29,13 @@ usercss: css/user.css
 
 # social profile at the footer/bottom
 footer: true
-placename: Earth
-placelink: https://en.wikipedia.org/wiki/Earth
-github: https://github.com/adisaktijrs
-linkedin: https://linkedin.com/in/adisaktijrs
-twitter: https://twitter.com/adisaktijrs
-instagram: https://instagram.com/adisaktijrs
-stackoverflow: https://stackoverflow.com/story/tobiasreithmeier
+#placename: Earth
+#placelink: https://en.wikipedia.org/wiki/Earth
+github: https://github.com/RohJiHyun
+#linkedin: https://linkedin.com/in/adisaktijrs
+#twitter: https://twitter.com/adisaktijrs
+#instagram: https://instagram.com/adisaktijrs
+#stackoverflow: https://stackoverflow.com/st//o/ry/tobiasreithmeier
 
 # Misc
 nanobar: /js/nanobar.min.js
